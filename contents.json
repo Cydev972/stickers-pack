@@ -1,0 +1,282 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "army",
+      "name": "Army",
+      "publisher": "Cydev972",
+      "tray_image_file": "tray_army.png",
+      "publisher_email":"",
+      "publisher_website": "https://github.com/Cydev972/stickers-pack",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "idf.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "aman.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "mossad.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "bam.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "tikshuv.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "arm.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "arch.webp",
+          "emojis": ["",""]
+        }
+      ]
+    },
+    {
+      "identifier": "blob",
+      "name": "Blob",
+      "publisher": "cydev972",
+      "tray_image_file": "tray_blob.png",
+      "publisher_email":"",
+      "publisher_website": "https://github.com/Cydev972/stickers-pack",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "blobstarboard.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobLUL.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobwaitwhat.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobshh.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobshrug.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobshocked.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobnotsofast.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobtoot.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobscreenshot.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobextranervous.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobno.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobhide.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobsadlife.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobfeelsevil.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobthinking.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobyes.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "notlikecryblob.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobnomcookie.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobsurrender.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobhug.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobcoy.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobtrash.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobthumbsup.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobwave.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "blobjustright.webp",
+          "emojis": ["",""]
+        }
+      ]
+    },
+    {
+      "identifier": "cyber",
+      "name": "Cyber",
+      "publisher": "cydev972",
+      "tray_image_file": "tray_cyber.png",
+      "publisher_email":"",
+      "publisher_website": "https://github.com/Cydev972/stickers-pack",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "hackerman.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "cyber.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "evilhacker.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "docker.webp",
+          "emojis": ["",""]
+        }
+      ]
+    },
+    {
+      "identifier": "random",
+      "name": "Random",
+      "publisher": "cydev972",
+      "tray_image_file": "tray_random.png",
+      "publisher_email":"",
+      "publisher_website": "https://github.com/Cydev972/stickers-pack",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "fals.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "this.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "ramen.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "niceV.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "if.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "tru.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "else.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "wtf.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "woah.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "basa.webp",
+          "emojis": ["",""]
+        }
+      ]
+    },
+    {
+      "identifier": "think",
+      "name": "Think",
+      "publisher": "cydev972",
+      "tray_image_file": "tray_think.png",
+      "publisher_email":"",
+      "publisher_website": "https://github.com/Cydev972/stickers-pack",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "hmm.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "think.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "thinkxel.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "thinkscared.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "thinkW.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "gefenthink.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "bamthink.webp",
+          "emojis": ["",""]
+        },
+        {
+          "image_file": "thonk.webp",
+          "emojis": ["",""]
+        }
+      ]
+    }
+  ]
+}
